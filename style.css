@@ -1,0 +1,23 @@
+body
+{
+    background-color:plum ;
+}
+
+#score
+{
+    font-size:25px;
+    margin-left:100px;
+    float: left;
+}
+
+#timer
+{
+    font-size:25px;
+    margin-right:100px;
+    float: right;
+}
+
+#sketch_to_be_drawn
+{
+    color: blue;
+}
